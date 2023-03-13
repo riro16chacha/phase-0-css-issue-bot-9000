@@ -13,7 +13,7 @@ h2 {
 }
 
 .completed {
-  font-family: 100px;
+ font-size: 12px;
 }
 
 #tasks .completed {
